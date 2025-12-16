@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/patriciagoyochea/ADA_TRABAJOS#readme",
   "dependencies": {
-    "prompt": "^1.3.0"
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
   }
 }
